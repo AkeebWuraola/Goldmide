@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goldmide
+- 👋 Hi, I’m Akeeb Wuraola
 - 👀 I’m interested in Data Science in relation to Business Intelligence
 - 🌱 I’m currently learning Visualisation with PowerBI
 - 💞️ I’m looking to collaborate on Data Science Projects.
